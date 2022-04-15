@@ -1,0 +1,1 @@
+# ScanQrComponent.github.io
